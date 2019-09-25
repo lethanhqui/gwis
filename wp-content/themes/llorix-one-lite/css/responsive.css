@@ -1,0 +1,194 @@
+/* LTQ Responsive */
+
+@media screen and (max-width: 1280px) {
+	.master-slider .ms-slide-info {
+		width: 50% !important;
+	}
+	
+	.ms-info h1 {
+		font-size: 44px;
+	}
+}
+
+@media screen and (max-width: 1060px) {	
+	.ms-info h1 {
+		font-size: 40px;
+		margin:0;
+	}
+}
+
+@media screen and (max-width: 991px) {
+	h2.text-left{
+		text-align:left !important;
+	}
+	
+	#section-video {
+		min-height: 320px;
+	}
+	
+	.wpcf7-form .wpcf7-submit,
+	.wpcf7-form .your-email input,
+	.wpcf7-form .your-message textarea{
+		margin-top:15px;
+	}
+	
+	.wpcf7-form .wpcf7-submit{
+		font-size:16px;
+	}
+	
+	.people-item img{
+		width:150px;
+	}
+	
+	#post-people .profile{
+		text-align:center;
+	}
+	
+	.form-contact {
+		margin-top:30px;		
+	}
+	
+	.form-contact form div,
+	.form-contact h3{
+		margin-left:0;
+		padding: 0;
+	}
+	
+	.ms-info h1 {
+		font-size: 32px;
+	}
+	
+	.ms-info h1 span {
+		margin-top: 5px;
+	}
+	
+	.welcome {
+		font-size: 20px;
+	}
+	
+	.welcome-gwis {
+		font-size: 24px !important;
+	}
+	
+}
+
+@media screen and (max-width: 767px) {
+
+	.ms-info h1 {
+		font-size: 28px;
+		line-height: 30px;
+	}
+
+	.ms-info h1 span {
+		margin-top: 0;
+	}
+	
+    .ms-nav-prev, 
+	.ms-nav-next {
+		height: 69px !important;
+		width: 24px !important;
+	}
+	
+	.welcome-gwis {
+		font-size: 22px !important;
+		line-height: 26px !important;
+	}
+	
+	.welcome {
+		font-size: 18px;
+	}
+	
+	#section-video .videos{
+		text-align:center;
+	}
+	
+	#section-video .videos div{
+		margin-bottom: 30px;
+	}
+	
+	#footer .ft-left,
+	#footer .ft-right{
+		text-align: center;
+	}
+	
+	#footer .ft-left{
+		padding-left:15px;
+	}
+
+	#footer .ft-right{
+		padding-right:15px;
+	}
+	
+	#footer .ft-right ul {
+		float: none;
+		margin: 5px 0 0;
+	}		.videos .wpvl_auto_thumb_play {		width: 64px;	}		.people-item img{		width:180px;	}
+}
+
+@media screen and (max-width: 600px) {
+
+	.very-top-header ul.social-icons {
+		margin-top: 8px !important;
+	}
+
+	#sidebar-widgets-area-1, 
+	#sidebar-widgets-area-2 {
+		width: 100% !important;
+	}
+	
+	#footer.ft-index{
+		height:840px;
+	}
+	
+	#footer #text-3 h3.widget-title {
+		margin-left: 0;
+	}
+		
+	.wpcf7-form div{
+		padding-left: 0;
+		padding-right: 30px;
+	}
+}
+
+@media screen and (max-width: 480px) {
+
+	.header-menu #flags {
+		width: 120px;
+	}
+	
+	.ms-info h1 {
+		font-size: 22px;
+		line-height: 26px;
+	}
+
+    .ms-nav-prev, 
+	.ms-nav-next {
+		height: 52px !important;
+		width: 18px !important;
+	}
+	
+	.welcome-gwis {
+		font-size: 20px !important;
+		line-height: 22px !important;
+	}
+	
+	.videos .wpvl_auto_thumb_play {		
+		width: 42px;	
+	}
+	
+	#footer.ft-index {
+		height: 830px;
+	}
+}  
+
+@media screen and (max-width: 360px) {
+
+	.ms-info h1 {
+		font-size: 18px;
+		line-height: 22px;
+	}
+	
+	#footer.ft-index {
+		height: 850px;
+	}
+}

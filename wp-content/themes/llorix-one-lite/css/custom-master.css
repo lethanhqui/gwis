@@ -1,0 +1,535 @@
+/* LTQ Custom CSS*/
+.wpcf7-mail-sent-ng{
+	background: transparent none repeat scroll 0 0 !important;
+}
+.wpcf7-validation-errors{
+	display:none !important;
+}
+#story .section-overlay-layer {
+    padding-bottom: 80px;
+    padding-top: 80px;
+}
+
+/* Global */
+
+a:focus {
+    outline: 0px dotted #f16c20 !important;
+}
+
+.entry-footer,
+.post-navigation,
+#comments,
+.entry-meta{
+	display:none;
+}
+
+
+.timeline-text{
+	margin: 45px 0;
+}
+
+.colored-line-left, .colored-line-right, .colored-line {
+    background: #000 none repeat scroll 0 0 !important;
+}
+
+h2.dark-text {
+    color: #000 !important;
+	text-transform: uppercase;
+	font-family: 'Crimson Text', serif !important;
+	font-weight: 700;
+}
+
+.colored-line-left{
+	 margin: 15px 0;
+}
+
+.main-navigation {
+    font-family: "Open Sans",sans-serif !important; 
+  /* font-family: 'Crimson Text', serif !important;*/
+}
+
+/* Header */
+
+#English .flag{
+	 background: rgba(0, 0, 0, 0) none repeat scroll 0 0 !important;
+}
+
+.navbar-brand {
+    max-width: 220px;
+}
+
+.very-top-header{
+	background: #0bc179 !important;
+}
+
+.very-top-left {
+    margin-left: 5px;
+	padding: 0 !important;
+}
+
+.very-top-right {
+    margin-right: 7px;
+}
+
+.header-menu{
+	padding: 5px 0;
+ font-family: "Open Sans",sans-serif !important; 
+  /* font-family: 'Crimson Text', serif !important;*/
+	
+}
+
+.header-menu ul{
+	display: inline-block;
+    margin-bottom: 0;
+    padding-left: 0;
+}
+
+.header-menu ul li{
+	display: inline;
+	padding-left: 15px;
+}
+
+.header-menu ul li a{
+	color: #fff;
+    font-size: 13px;
+    text-transform: uppercase;
+}
+
+.header-menu #flags ul{
+	float:right !important;
+	 margin-top: 5px;
+}
+
+.navbar{
+	border-bottom: 3px solid #0bc179 !important;
+}
+
+.header-menu .menu-header-menu-container{
+	display: inline;
+	margin-right: 15px;
+}
+
+#flags {
+    width: auto !important;
+    display: inline;
+}
+
+/** Slider **/
+.ms-nav-prev{
+	background: url('../images/arrow-left.png') !important;
+}
+
+.ms-nav-next{
+	background: url('../images/arrow-right.png') !important;
+}
+
+.ms-nav-prev,
+.ms-nav-next{
+    height: 81px !important;
+    width: 28px !important;
+    background-repeat: no-repeat !important;
+    background-size: 100% !important;
+    border: none !important;
+}
+
+.ms-bullets{
+	width: 100% !important;
+	position: initial !important;
+}
+
+
+.ms-bullets .ms-bullets-count{
+	position: absolute !important;
+	bottom: 0 !important;
+	left: 50% !important;
+	right: none !important;
+	transform: translate(-50%,-50%) !important;
+}
+
+.ms-bullet{
+	 border-radius: 0 !important;
+	 width: 40px !important;
+	 height:4px !important;
+	 border: 0px solid !important;
+	 background-color: rgba(255, 255, 255, 0.5) !important;
+}
+
+.ms-bullet-selected {
+    background-color: rgba(255, 255, 255, 1) !important;
+    border: 0px solid !important;
+}
+
+.master-slider {
+	position:relative;
+	text-align: center;
+	margin-top:0 !important;
+	min-height:auto !important;
+}
+
+.master-slider .ms-slide-info {
+	position:absolute !important;
+	top:50%;
+	left:50%;
+	-webkit-transform: translate(-50%, -50%);
+	-moz-transform: translate(-50%, -50%);
+	-o-transform: translate(-50%, -50%);
+	-ms-transform: translate(-50%, -50%);
+	transform: translate(-50%, -50%);
+	width: 45% !important;
+}
+
+.ms-info h1{
+	font-size: 48px;
+	font-family: 'Crimson Text',serif; 
+	text-align: left; 
+	color: #fff; 
+	text-decoration: underline;
+	font-weight:600;
+	font-style:italic;
+}
+
+.ms-info h1 span{
+	display: block; 
+	margin-top: 20px
+}
+/* Section notify */
+.widget_a_featured_page_widget .colored-line-left{
+	display: none;
+}
+.widget_a_featured_page_widget .widget-title{
+	display: none;
+}
+.widget_a_featured_page_widget .widget-title1 a:hover{
+	color:#be5000;
+}
+.widget_a_featured_page_widget .widget-title1{
+	color: #000 !important;
+    font-family: "Crimson Text",serif !important;
+    font-weight: 700;
+    text-transform: uppercase;
+	text-align: center;
+	 font-size: 45px;
+	 padding-top: 17px;
+}
+.widget_a_featured_page_widget .widget-title1 a{
+	color: #000;
+}
+.widget_a_featured_page_widget .page{
+	display: none;
+}
+/* Section Our Story */
+.welcome{
+	font-family: "Open Sans",sans-serif !important;
+    font-size: 24px;
+    font-weight: 100;
+	margin-top: 0;
+}
+
+.welcome-gwis{
+	font-family: "Crimson Text",serif !important;
+    font-size: 30px !important;
+    font-weight: 700;
+    line-height: 34px !important;
+    margin-top: 15px !important;
+}
+
+.welcome a,
+.welcome-gwis a{
+	color:#000;
+}
+
+/* Section People */
+
+.people-image{
+
+}
+
+.people-image .people-item{
+	text-align:center;
+	margin-bottom: 45px;
+}
+
+.people-item img{
+
+		width:180px;
+
+	}
+
+.people-image .profile{
+	min-height: 90px;
+}
+
+.people-image .profile h4{
+	font-size: 16px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.people-image .profile p{
+	font-size: 14px;
+}
+
+.people-image .profile p span{
+	display: block;
+	margin-top: -5px;
+}
+
+/* Section Video */
+.videos .video_lightbox_auto_anchor_image,
+.videos .wpvl_auto_thumb_box{
+	width:100% !important;
+	height:auto !important;
+}
+
+.videos .wpvl_auto_thumb_play {
+    left: 10%;
+    top: 85%;
+	-webkit-transform: translate(-50%, -50%);
+-moz-transform: translate(-50%, -50%);
+-o-transform: translate(-50%, -50%);
+-ms-transform: translate(-50%, -50%);
+transform: translate(-50%, -50%);
+width:42px;
+}
+
+#section-video{
+	background: url('../images/section-images.jpg') !important;
+	background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    min-height: 530px;
+}
+
+#section-video .colored-line-left{
+	background: #fff none repeat scroll 0 0 !important;
+	margin-left: 15px;
+}
+
+#section-video h2.dark-text{
+	color:#fff !important;
+	margin-left: 15px;
+}
+
+/* Contact Form */
+
+.wpcf7-form input{
+	border-radius: 0 !important;
+    width: 100%;
+	background: #dcdee0 none repeat scroll 0 0;
+	text-indent: 5px;
+	font-weight: 300;
+}
+
+.wpcf7-form .your-message textarea{
+	border-radius: 0 !important;
+	 margin-top: 30px;
+	 background: #dcdee0 none repeat scroll 0 0;
+	 font-weight: 300;
+}
+
+.wpcf7-form .wpcf7-submit{
+	margin-top: 30px;
+	font-size:18px;
+	background-color: #0bc179;
+}
+
+.form-contact h3{
+	font-family: "Crimson Text",serif; 
+	color:#666 !important;
+	margin-left:15px;
+	margin-top: 0 !important;
+}
+
+div.wpcf7-validation-errors,
+div.wpcf7-mail-sent-ok{
+    background-color: transparent !important;
+}
+
+/* Post */
+
+h1.single-title{
+	font-family: 'Crimson Text', serif !important;
+	font-weight:700;
+	font-size: 30px !important;
+    line-height: 30px !important;
+}
+
+.post-img-wrap {
+    background-color: transparent !important;
+}
+
+#post-people .row{
+	border-bottom: 1px solid #0bc179;
+    margin-top: 45px;
+	margin-bottom: 15px;
+}
+
+/* Footer */
+
+#footer .timeline-text ,
+#footer .footer-widget-wrap{
+	display:none;
+}
+
+#footer.ft-index  .timeline-text,
+#footer.ft-index  .footer-widget-wrap{
+	display:block;
+}
+
+#footer {
+    background: #0bc179 none repeat scroll 0 0 !important;
+    padding: 0 !important; 
+	border-bottom: 0px solid #eaebec;
+    border-top: 0px solid #eaebec;
+}
+
+#footer.ft-index{
+	background: url('../images/bg-footer.jpg') !important;
+	background-position: center center !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    min-height: 610px;
+	display: inline-block;
+    height: 615px;
+	width:100%;
+	padding: 0;
+	border-bottom: 0px solid #eaebec;
+    border-top: 0px solid #eaebec;
+}
+
+#footer .colored-line-left{
+	background: #fff none repeat scroll 0 0 !important;
+	margin-left: 15px;
+}
+
+#footer h2.dark-text{
+	color:#fff !important;
+	margin-left: 15px;
+}
+
+#sidebar-widgets-area-1,
+#sidebar-widgets-area-2{
+	width:50% !important;
+}
+
+#footer h3.widget-title{
+	margin-top:0;
+	text-transform: none;
+	font-family: 'Crimson Text', serif !important;
+	font-weight:700;
+}
+
+#footer #text-3 h3.widget-title{
+	margin-left:15px;
+}
+
+#footer.footer .widget-title::after {
+	display: none !important;
+}
+
+#footer .widget_text{
+	margin-left:15px;
+}
+
+#footer .textwidget p{
+	color:#fff;
+	font-size: 14px;
+}
+
+#footer .textwidget p i{
+	margin-right:10px;
+}
+
+#footer.footer a {
+    background-color: transparent !important;
+	 text-decoration: underline;
+}
+
+#footer .ft-left{
+text-align:left;
+	padding-left:0;
+	color: #fff;
+}
+
+#footer .ft-right{
+	padding-right:0;
+}
+
+#footer .ft-right ul{
+float:right;
+margin:0;
+}
+
+#footer .ft-right ul li{
+	padding-top:0;
+}
+
+footer.footer .social-icons i::before {
+	background-color: transparent !important;
+    border-radius: 0 !important;
+	font-size: 20px !important;
+}
+
+#footer .powered-by {
+    border-top: 0 solid #f6f6f6 !important;
+    display: inline-block;
+    margin-bottom: 0;
+    margin-top: 10px;
+    padding-top: 0;
+    width: 100%;
+}
+
+#footer.ft-index .powered-by {
+    border-top: 1px solid #f6f6f6 !important;
+	 padding-top: 10px;
+}
+
+.footer-widget-wrap  .textwidget p{
+	margin-bottom:0;
+}
+#text-4{
+	 padding-bottom: 30px;
+    padding-left: 20px;
+}
+#category-posts-2{
+	  padding-top: 45px;
+}
+#category-posts-2-internal{
+	padding-left: 0 !important;
+}
+#category-posts-2-internal .cat-post-title:hover{
+	color:#f16c20;
+	text-decoration:none;
+}
+#category-posts-2-internal .cat-post-title{
+    color: #000;
+    font-size: 25px !important;
+    font-weight: 500 !important;
+    padding-top: 11px !important;
+    text-transform: uppercase;
+}
+#category-posts-2-internal .cat-post-item p{
+	padding-top: 30px !important;
+}
+#category-posts-2-internal .cat-post-item .colored-line-left{
+	margin-top: 10px;
+    position: absolute;
+}
+#category-posts-2-internal .cat-post-item{
+	border-color: #ccc !important;
+    border-radius: 3px;
+    border-style: solid !important;
+    border-width: 1px 1px 4px !important;
+	 padding: 10px 10px 35px !important;
+    position: relative;
+	 margin-bottom: 20px !important;
+}
+#category-posts-2-internal .cat-post-item:hover{
+	border-bottom-color:#f16c20 !important;
+}
+h2.widget-title{
+	color: #000 !important;
+    font-family: "Crimson Text",serif !important;
+    font-weight: 700;
+    text-transform: uppercase;
+}

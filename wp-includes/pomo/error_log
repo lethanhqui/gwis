@@ -1,0 +1,1 @@
+[27-Oct-2017 14:38:56 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; DbClass has a deprecated constructor in /home/nakh2010/public_html/gwisbinhdinh.com/wp-includes/pomo/vendor.php(17) : runtime-created function on line 1078

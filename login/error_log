@@ -1,0 +1,11 @@
+[12-Jan-2017 13:44:34 Europe/London] PHP Fatal error:  Call to a member function getUser() on a non-object in /home/nakh2010/public_html/gwisbinhdinh.com/login/payments.php on line 3
+[12-Jan-2017 13:45:22 Europe/London] PHP Fatal error:  Call to a member function getUser() on a non-object in /home/nakh2010/public_html/gwisbinhdinh.com/login/payments.php on line 3
+[12-Jan-2017 13:49:44 Europe/London] PHP Fatal error:  Call to a member function getClasses() on a non-object in /home/nakh2010/public_html/gwisbinhdinh.com/login/payments.php on line 3
+[12-Jan-2017 13:50:35 Europe/London] PHP Fatal error:  Call to a member function getClasses() on a non-object in /home/nakh2010/public_html/gwisbinhdinh.com/login/payments.php on line 3
+[12-Jan-2017 13:51:47 Europe/London] PHP Fatal error:  Call to a member function getClasses() on a non-object in /home/nakh2010/public_html/gwisbinhdinh.com/login/payments.php on line 3
+[12-Jan-2017 14:06:37 Europe/London] PHP Fatal error:  Call to a member function getClasses() on a non-object in /home/nakh2010/public_html/gwisbinhdinh.com/login/payments.php on line 3
+[12-Jan-2017 14:39:01 Europe/London] PHP Fatal error:  Call to a member function getBooks() on a non-object in /home/nakh2010/public_html/gwisbinhdinh.com/login/payments.php on line 3
+[12-Jan-2017 14:40:57 Europe/London] PHP Fatal error:  Call to a member function getBooks() on a non-object in /home/nakh2010/public_html/gwisbinhdinh.com/login/payments.php on line 3
+[12-Jan-2017 14:43:51 Europe/London] PHP Fatal error:  Cannot use object of type User as array in /home/nakh2010/public_html/gwisbinhdinh.com/login/payments.php on line 44
+[12-Jan-2017 14:50:29 Europe/London] PHP Fatal error:  Class 'Globals' not found in /home/nakh2010/public_html/gwisbinhdinh.com/login/includes/config.php on line 34
+[12-Jan-2017 14:51:15 Europe/London] PHP Fatal error:  Cannot access parent:: when current class scope has no parent in /home/nakh2010/public_html/gwisbinhdinh.com/login/classes/global.php on line 8

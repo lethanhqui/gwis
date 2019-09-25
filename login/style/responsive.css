@@ -1,0 +1,91 @@
+@media screen and (max-width: 991px) {
+	#tab-control .nav-tabs li a{
+		font-size: 12px;
+		padding: 5px 10px;
+	} 
+}
+
+@media screen and (max-width: 768px) {
+.active {
+        display: block;
+    }
+    .navigation > li {
+        float: none;
+    }
+    .navigation > li > .parent {
+        background-position: 95% 50%;
+    }
+    .navigation li li .parent {
+        background-image: url("images/downArrow.png");
+        background-repeat: no-repeat;
+        background-position: 95% 50%;
+    }
+    .navigation ul {
+        display: block;
+        width: 100%;
+    }
+   .navigation > li.hover > ul , .navigation li li.hover ul {
+        position: static;
+    }
+}
+	
+@media screen and (max-width: 680px) {
+	#tab-control .nav-tabs li a{
+		font-size: 10px;
+		padding: 4px 6px;
+	} 
+}  
+
+@media screen and (max-width: 570px) {
+
+	#tab-control .nav-tabs {
+		padding-left: 20px;
+	}
+
+	#tab-control .nav-tabs li a {
+		font-size: 9px;
+		padding: 4px 6px;
+	}
+}
+
+@media screen and (max-width: 480px) {
+
+	#tab-control .nav-tabs {
+		padding-left: 0px;
+	}
+
+	#tab-control .nav-tabs li {
+		text-align: center;
+		width: 100%;
+	}
+	
+	#tab-control .nav-tabs li a {
+		font-size: 12px;
+		padding: 4px 6px;
+		margin-right:0;
+	}
+	
+	.wrap-content {
+		padding: 30px;
+	}
+
+	.wrap-content .main-content {
+		padding: 15px;
+	}
+	
+	.nav-tabs > li > a:hover {
+		border-color: transparent;
+	}
+	
+	h2, .h2 {
+		font-size: 20px;
+	}
+	
+	#desktop-show{
+		display:none !important;
+	}
+	
+	#mobile-show{
+		display:block !important;
+	}
+}

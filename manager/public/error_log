@@ -1,0 +1,273 @@
+[09-Jan-2017 08:34:46 UTC] PHP Notice:  Undefined index: day in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/controller/users.php on line 24
+[09-Jan-2017 08:34:46 UTC] PHP Notice:  Undefined index: month in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/controller/users.php on line 24
+[09-Jan-2017 08:34:46 UTC] PHP Notice:  Undefined index: year in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/controller/users.php on line 24
+[09-Jan-2017 08:34:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/controller/users.php:24) in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/controller/users.php on line 28
+[11-Jan-2017 04:07:06 UTC] PHP Notice:  Undefined variable: classes in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/result.php on line 38
+[11-Jan-2017 04:07:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/result.php on line 38
+[11-Jan-2017 04:07:06 UTC] PHP Notice:  Undefined variable: achievements in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/result.php on line 59
+[11-Jan-2017 04:07:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/result.php on line 59
+[11-Jan-2017 04:07:06 UTC] PHP Notice:  Undefined variable: users in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/result.php on line 134
+[11-Jan-2017 04:07:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/result.php on line 134
+[11-Jan-2017 04:07:06 UTC] PHP Notice:  Undefined variable: count_users in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/result.php on line 167
+[11-Jan-2017 04:08:40 UTC] PHP Notice:  Undefined variable: classes in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/result.php on line 36
+[11-Jan-2017 04:08:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/result.php on line 36
+[11-Jan-2017 04:08:40 UTC] PHP Notice:  Undefined variable: achievements in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/result.php on line 50
+[11-Jan-2017 04:08:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/result.php on line 50
+[11-Jan-2017 04:08:40 UTC] PHP Notice:  Undefined variable: users in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/result.php on line 126
+[11-Jan-2017 04:08:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/result.php on line 126
+[11-Jan-2017 04:08:40 UTC] PHP Notice:  Undefined variable: count_users in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/result.php on line 159
+[11-Jan-2017 04:15:23 UTC] PHP Notice:  Undefined variable: users in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/result.php on line 110
+[11-Jan-2017 04:15:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/result.php on line 110
+[11-Jan-2017 04:15:23 UTC] PHP Notice:  Undefined variable: count_users in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/result.php on line 143
+[11-Jan-2017 04:19:30 UTC] PHP Notice:  Undefined variable: users in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/result.php on line 96
+[11-Jan-2017 04:19:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/result.php on line 96
+[11-Jan-2017 04:19:30 UTC] PHP Notice:  Undefined variable: count_users in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/result.php on line 129
+[11-Jan-2017 04:21:48 UTC] PHP Notice:  Undefined variable: users in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/result.php on line 96
+[11-Jan-2017 04:21:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/result.php on line 96
+[11-Jan-2017 04:21:48 UTC] PHP Notice:  Undefined variable: count_users in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/result.php on line 129
+[11-Jan-2017 04:23:29 UTC] PHP Notice:  Undefined variable: users in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/result.php on line 96
+[11-Jan-2017 04:23:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/result.php on line 96
+[11-Jan-2017 04:23:29 UTC] PHP Notice:  Undefined variable: count_users in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/result.php on line 129
+[11-Jan-2017 04:32:44 UTC] PHP Notice:  Undefined variable: users in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/result.php on line 96
+[11-Jan-2017 04:32:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/result.php on line 96
+[11-Jan-2017 04:32:44 UTC] PHP Notice:  Undefined variable: count_users in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/result.php on line 129
+[11-Jan-2017 04:40:36 UTC] PHP Notice:  Undefined variable: users in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/result.php on line 96
+[11-Jan-2017 04:40:36 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/result.php on line 96
+[11-Jan-2017 04:40:36 UTC] PHP Notice:  Undefined variable: count_users in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/result.php on line 129
+[11-Jan-2017 07:31:23 UTC] PHP Notice:  Undefined variable: users in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/result.php on line 96
+[11-Jan-2017 07:31:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/result.php on line 96
+[11-Jan-2017 07:31:23 UTC] PHP Notice:  Undefined variable: count_users in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/result.php on line 129
+[11-Jan-2017 07:35:45 UTC] PHP Notice:  Undefined variable: users in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/result.php on line 96
+[11-Jan-2017 07:35:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/result.php on line 96
+[11-Jan-2017 07:35:45 UTC] PHP Notice:  Undefined variable: count_users in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/result.php on line 129
+[11-Jan-2017 07:36:52 UTC] PHP Notice:  Undefined variable: users in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/result.php on line 96
+[11-Jan-2017 07:36:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/result.php on line 96
+[11-Jan-2017 07:36:52 UTC] PHP Notice:  Undefined variable: count_users in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/result.php on line 129
+[11-Jan-2017 07:39:05 UTC] PHP Notice:  Undefined variable: users in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/result.php on line 96
+[11-Jan-2017 07:39:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/result.php on line 96
+[11-Jan-2017 07:39:05 UTC] PHP Notice:  Undefined variable: count_users in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/result.php on line 129
+[11-Jan-2017 07:40:17 UTC] PHP Notice:  Undefined variable: users in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/result.php on line 96
+[11-Jan-2017 07:40:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/result.php on line 96
+[11-Jan-2017 07:40:17 UTC] PHP Notice:  Undefined variable: count_users in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/result.php on line 129
+[11-Jan-2017 07:40:54 UTC] PHP Notice:  Undefined variable: users in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/result.php on line 96
+[11-Jan-2017 07:40:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/result.php on line 96
+[11-Jan-2017 07:40:54 UTC] PHP Notice:  Undefined variable: count_users in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/result.php on line 129
+[11-Jan-2017 07:43:24 UTC] PHP Notice:  Undefined variable: users in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/result.php on line 96
+[11-Jan-2017 07:43:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/result.php on line 96
+[11-Jan-2017 07:43:24 UTC] PHP Notice:  Undefined variable: count_users in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/result.php on line 129
+[11-Jan-2017 07:43:26 UTC] PHP Notice:  Undefined variable: users in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/result.php on line 96
+[11-Jan-2017 07:43:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/result.php on line 96
+[11-Jan-2017 07:43:26 UTC] PHP Notice:  Undefined variable: count_users in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/result.php on line 129
+[11-Jan-2017 07:44:44 UTC] PHP Notice:  Undefined variable: users in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/result.php on line 96
+[11-Jan-2017 07:44:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/result.php on line 96
+[11-Jan-2017 07:44:44 UTC] PHP Notice:  Undefined variable: count_users in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/result.php on line 129
+[11-Jan-2017 07:45:46 UTC] PHP Notice:  Undefined variable: users in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/result.php on line 96
+[11-Jan-2017 07:45:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/result.php on line 96
+[11-Jan-2017 07:45:46 UTC] PHP Notice:  Undefined variable: count_users in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/result.php on line 129
+[11-Jan-2017 07:46:39 UTC] PHP Warning:  Missing argument 5 for Model_Users::addFollow(), called in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/controller/users.php on line 130 and defined in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/model/Model_Users.php on line 110
+[11-Jan-2017 07:46:39 UTC] PHP Warning:  Missing argument 6 for Model_Users::addFollow(), called in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/controller/users.php on line 130 and defined in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/model/Model_Users.php on line 110
+[11-Jan-2017 07:46:39 UTC] PHP Warning:  Missing argument 7 for Model_Users::addFollow(), called in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/controller/users.php on line 130 and defined in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/model/Model_Users.php on line 110
+[11-Jan-2017 07:46:39 UTC] PHP Notice:  Undefined variable: user_id in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/model/Model_Users.php on line 115
+[11-Jan-2017 07:46:39 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'user_id' cannot be null in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/model/Model_Users.php on line 117
+[11-Jan-2017 07:46:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/model/Model_Users.php:110) in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/controller/users.php on line 133
+[11-Jan-2017 07:47:05 UTC] PHP Warning:  Missing argument 5 for Model_Users::addFollow(), called in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/controller/users.php on line 130 and defined in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/model/Model_Users.php on line 110
+[11-Jan-2017 07:47:05 UTC] PHP Warning:  Missing argument 6 for Model_Users::addFollow(), called in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/controller/users.php on line 130 and defined in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/model/Model_Users.php on line 110
+[11-Jan-2017 07:47:05 UTC] PHP Warning:  Missing argument 7 for Model_Users::addFollow(), called in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/controller/users.php on line 130 and defined in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/model/Model_Users.php on line 110
+[11-Jan-2017 07:47:05 UTC] PHP Notice:  Undefined variable: user_id in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/model/Model_Users.php on line 115
+[11-Jan-2017 07:47:05 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'user_id' cannot be null in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/model/Model_Users.php on line 117
+[11-Jan-2017 07:47:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/model/Model_Users.php:110) in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/controller/users.php on line 133
+[11-Jan-2017 07:47:17 UTC] PHP Notice:  Undefined variable: users in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/result.php on line 96
+[11-Jan-2017 07:47:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/result.php on line 96
+[11-Jan-2017 07:47:17 UTC] PHP Notice:  Undefined variable: count_users in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/result.php on line 129
+[11-Jan-2017 07:47:35 UTC] PHP Warning:  Missing argument 5 for Model_Users::addFollow(), called in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/controller/users.php on line 130 and defined in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/model/Model_Users.php on line 110
+[11-Jan-2017 07:47:35 UTC] PHP Warning:  Missing argument 6 for Model_Users::addFollow(), called in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/controller/users.php on line 130 and defined in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/model/Model_Users.php on line 110
+[11-Jan-2017 07:47:35 UTC] PHP Warning:  Missing argument 7 for Model_Users::addFollow(), called in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/controller/users.php on line 130 and defined in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/model/Model_Users.php on line 110
+[11-Jan-2017 07:47:35 UTC] PHP Notice:  Undefined variable: user_id in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/model/Model_Users.php on line 115
+[11-Jan-2017 07:47:35 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'user_id' cannot be null in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/model/Model_Users.php on line 117
+[11-Jan-2017 07:47:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/model/Model_Users.php:110) in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/controller/users.php on line 133
+[11-Jan-2017 07:47:51 UTC] PHP Notice:  Undefined variable: users in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/result.php on line 96
+[11-Jan-2017 07:47:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/result.php on line 96
+[11-Jan-2017 07:47:51 UTC] PHP Notice:  Undefined variable: count_users in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/result.php on line 129
+[11-Jan-2017 07:57:38 UTC] PHP Notice:  Undefined variable: users in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/result.php on line 94
+[11-Jan-2017 07:57:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/result.php on line 94
+[11-Jan-2017 07:57:38 UTC] PHP Notice:  Undefined variable: count_users in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/result.php on line 127
+[11-Jan-2017 07:58:16 UTC] PHP Notice:  Undefined variable: users in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/result.php on line 94
+[11-Jan-2017 07:58:16 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/result.php on line 94
+[11-Jan-2017 07:58:16 UTC] PHP Notice:  Undefined variable: count_users in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/result.php on line 127
+[11-Jan-2017 08:12:48 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'RE.date' in 'order clause' in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/model/Model_Users.php on line 130
+[11-Jan-2017 08:12:48 UTC] PHP Notice:  Undefined variable: users in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/result.php on line 94
+[11-Jan-2017 08:12:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/result.php on line 94
+[11-Jan-2017 08:12:48 UTC] PHP Notice:  Undefined variable: count_users in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/result.php on line 127
+[11-Jan-2017 08:13:20 UTC] PHP Notice:  Undefined property: stdClass::$birthday in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/result.php on line 104
+[11-Jan-2017 08:13:20 UTC] PHP Notice:  Undefined offset: 2 in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/result.php on line 106
+[11-Jan-2017 08:13:20 UTC] PHP Notice:  Undefined offset: 1 in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/result.php on line 106
+[11-Jan-2017 08:13:20 UTC] PHP Notice:  Undefined variable: count_users in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/result.php on line 127
+[11-Jan-2017 08:16:41 UTC] PHP Notice:  Undefined property: stdClass::$test15 in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/result.php on line 106
+[11-Jan-2017 08:16:41 UTC] PHP Notice:  Undefined property: stdClass::$test45 in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/result.php on line 107
+[11-Jan-2017 08:16:41 UTC] PHP Notice:  Undefined property: stdClass::$testlast in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/result.php on line 108
+[11-Jan-2017 08:16:41 UTC] PHP Notice:  Undefined variable: count_users in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/result.php on line 121
+[11-Jan-2017 08:19:40 UTC] PHP Notice:  Undefined variable: count_users in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/result.php on line 121
+[11-Jan-2017 08:20:36 UTC] PHP Notice:  Undefined variable: count_users in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/result.php on line 121
+[11-Jan-2017 08:32:04 UTC] PHP Notice:  Undefined variable: arr_date in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/controller/users.php on line 121
+[11-Jan-2017 08:32:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/controller/users.php:121) in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/controller/users.php on line 126
+[11-Jan-2017 08:58:42 UTC] PHP Warning:  Creating default object from empty value in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/controller/users.php on line 149
+[11-Jan-2017 08:58:42 UTC] PHP Notice:  Undefined property: stdClass::$username in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/edit_result.php on line 11
+[11-Jan-2017 08:58:42 UTC] PHP Notice:  Undefined property: stdClass::$name in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/edit_result.php on line 16
+[11-Jan-2017 08:58:42 UTC] PHP Notice:  Undefined property: stdClass::$day in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/edit_result.php on line 22
+[11-Jan-2017 08:58:42 UTC] PHP Notice:  Undefined property: stdClass::$month in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/edit_result.php on line 23
+[11-Jan-2017 08:58:42 UTC] PHP Notice:  Undefined property: stdClass::$year in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/edit_result.php on line 24
+[11-Jan-2017 08:58:42 UTC] PHP Notice:  Undefined property: stdClass::$birthday in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/edit_result.php on line 30
+[11-Jan-2017 08:58:42 UTC] PHP Notice:  Undefined property: stdClass::$sex in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/edit_result.php on line 35
+[11-Jan-2017 08:58:42 UTC] PHP Notice:  Undefined property: stdClass::$sex in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/edit_result.php on line 36
+[11-Jan-2017 08:58:42 UTC] PHP Notice:  Undefined variable: classes in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/edit_result.php on line 42
+[11-Jan-2017 08:58:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/edit_result.php on line 42
+[11-Jan-2017 08:58:42 UTC] PHP Notice:  Undefined property: stdClass::$school in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/edit_result.php on line 51
+[11-Jan-2017 08:58:42 UTC] PHP Notice:  Undefined variable: achievements in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/edit_result.php on line 57
+[11-Jan-2017 08:58:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/edit_result.php on line 57
+[11-Jan-2017 08:58:42 UTC] PHP Notice:  Undefined property: stdClass::$type in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/edit_result.php on line 72
+[11-Jan-2017 08:58:42 UTC] PHP Notice:  Undefined property: stdClass::$type in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/edit_result.php on line 73
+[11-Jan-2017 08:58:42 UTC] PHP Notice:  Undefined property: stdClass::$name_father in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/edit_result.php on line 80
+[11-Jan-2017 08:58:42 UTC] PHP Notice:  Undefined property: stdClass::$name_mother in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/edit_result.php on line 85
+[11-Jan-2017 08:58:42 UTC] PHP Notice:  Undefined property: stdClass::$address in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/edit_result.php on line 90
+[11-Jan-2017 08:58:42 UTC] PHP Notice:  Undefined property: stdClass::$phone in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/edit_result.php on line 95
+[11-Jan-2017 08:58:42 UTC] PHP Notice:  Undefined property: stdClass::$email in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/edit_result.php on line 100
+[11-Jan-2017 08:58:42 UTC] PHP Notice:  Undefined property: stdClass::$user_id in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/edit_result.php on line 107
+[11-Jan-2017 08:58:42 UTC] PHP Notice:  Undefined property: stdClass::$user_id in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/edit_result.php on line 115
+[11-Jan-2017 09:57:14 UTC] PHP Warning:  Creating default object from empty value in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/controller/users.php on line 149
+[11-Jan-2017 09:58:59 UTC] PHP Warning:  Creating default object from empty value in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/controller/users.php on line 149
+[11-Jan-2017 09:59:47 UTC] PHP Warning:  Creating default object from empty value in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/controller/users.php on line 149
+[11-Jan-2017 10:00:26 UTC] PHP Warning:  Creating default object from empty value in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/controller/users.php on line 149
+[11-Jan-2017 10:06:33 UTC] PHP Notice:  Undefined property: stdClass::$name in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/edit_result.php on line 5
+[11-Jan-2017 10:18:29 UTC] PHP Warning:  Missing argument 2 for Users::delete_result() in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/controller/users.php on line 32
+[11-Jan-2017 10:18:29 UTC] PHP Notice:  Undefined variable: user_id in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/controller/users.php on line 35
+[12-Jan-2017 04:51:14 UTC] PHP Fatal error:  Call to undefined method Model_Users::getAllAssessments() in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/controller/users.php on line 209
+[12-Jan-2017 08:15:25 UTC] PHP Notice:  Undefined variable: follow in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/assessment.php on line 50
+[12-Jan-2017 08:15:25 UTC] PHP Notice:  Trying to get property of non-object in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/assessment.php on line 50
+[12-Jan-2017 08:15:25 UTC] PHP Notice:  Undefined offset: 2 in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/assessment.php on line 52
+[12-Jan-2017 08:15:25 UTC] PHP Notice:  Undefined offset: 1 in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/assessment.php on line 52
+[12-Jan-2017 08:16:25 UTC] PHP Notice:  Undefined variable: user in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/edit_assessment.php on line 9
+[12-Jan-2017 08:16:25 UTC] PHP Notice:  Trying to get property of non-object in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/edit_assessment.php on line 9
+[12-Jan-2017 08:19:00 UTC] PHP Notice:  Undefined variable: user in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/edit_assessment.php on line 9
+[12-Jan-2017 08:19:00 UTC] PHP Notice:  Trying to get property of non-object in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/users/edit_assessment.php on line 9
+[12-Jan-2017 08:22:12 UTC] PHP Warning:  Missing argument 4 for Model_Users::updateAssessment(), called in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/controller/users.php on line 257 and defined in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/model/Model_Users.php on line 238
+[12-Jan-2017 08:22:12 UTC] PHP Notice:  Undefined variable: assessment_id in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/model/Model_Users.php on line 243
+[12-Jan-2017 08:22:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/model/Model_Users.php:238) in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/controller/users.php on line 260
+[12-Jan-2017 08:23:05 UTC] PHP Warning:  Missing argument 4 for Model_Users::updateAssessment(), called in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/controller/users.php on line 257 and defined in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/model/Model_Users.php on line 238
+[12-Jan-2017 08:23:05 UTC] PHP Notice:  Undefined variable: assessment_id in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/model/Model_Users.php on line 243
+[12-Jan-2017 08:23:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/model/Model_Users.php:238) in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/controller/users.php on line 260
+[12-Jan-2017 14:34:18 UTC] PHP Notice:  Undefined index: sale_fee in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/controller/books.php on line 21
+[12-Jan-2017 14:34:18 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'book_fee' cannot be null in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/model/Model_Books.php on line 31
+[12-Jan-2017 14:34:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/controller/books.php:21) in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/controller/books.php on line 24
+[15-Jan-2017 09:14:42 UTC] PHP Notice:  Undefined variable: error in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/login/index.php on line 5
+[15-Jan-2017 09:24:53 UTC] PHP Notice:  Trying to get property of non-object in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/model/Model_Login.php on line 31
+[15-Jan-2017 09:24:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/model/Model_Login.php:31) in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/controller/login.php on line 29
+[15-Jan-2017 09:30:41 UTC] PHP Notice:  Undefined variable: error in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/controller/login.php on line 9
+[15-Jan-2017 09:30:54 UTC] PHP Notice:  Undefined variable: error in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/controller/login.php on line 9
+[15-Jan-2017 09:37:21 UTC] PHP Notice:  Undefined variable: error in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/controller/login.php on line 18
+[15-Jan-2017 09:51:55 UTC] PHP Notice:  Undefined index: username in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/controller/home.php on line 10
+[15-Jan-2017 09:51:55 UTC] PHP Notice:  Undefined index: name in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/controller/home.php on line 11
+[15-Jan-2017 09:51:55 UTC] PHP Notice:  Undefined index: user_id in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/controller/home.php on line 12
+[15-Jan-2017 15:37:16 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'US.class_id' in 'on clause' in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/model/Model_Staffs.php on line 26
+[15-Jan-2017 15:38:30 UTC] PHP Notice:  Undefined variable: count_staffs in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/staffs/index.php on line 126
+[15-Jan-2017 15:54:28 UTC] PHP Notice:  Undefined property: stdClass::$staffname in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/staffs/edit.php on line 11
+[15-Jan-2017 15:54:28 UTC] PHP Notice:  Undefined property: stdClass::$class_id in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/staffs/edit.php on line 43
+[15-Jan-2017 15:54:28 UTC] PHP Notice:  Undefined property: stdClass::$class_id in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/staffs/edit.php on line 43
+[15-Jan-2017 15:54:28 UTC] PHP Notice:  Undefined property: stdClass::$class_id in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/staffs/edit.php on line 43
+[15-Jan-2017 15:54:28 UTC] PHP Notice:  Undefined property: stdClass::$class_id in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/staffs/edit.php on line 43
+[15-Jan-2017 15:54:28 UTC] PHP Notice:  Undefined property: stdClass::$class_id in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/staffs/edit.php on line 43
+[15-Jan-2017 15:54:28 UTC] PHP Notice:  Undefined property: stdClass::$class_id in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/staffs/edit.php on line 43
+[15-Jan-2017 15:54:28 UTC] PHP Notice:  Undefined property: stdClass::$class_id in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/staffs/edit.php on line 43
+[15-Jan-2017 15:54:28 UTC] PHP Notice:  Undefined property: stdClass::$class_id in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/staffs/edit.php on line 43
+[15-Jan-2017 15:54:28 UTC] PHP Notice:  Undefined property: stdClass::$class_id in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/staffs/edit.php on line 43
+[15-Jan-2017 15:54:28 UTC] PHP Notice:  Undefined property: stdClass::$class_id in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/staffs/edit.php on line 43
+[15-Jan-2017 15:54:28 UTC] PHP Notice:  Undefined property: stdClass::$class_id in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/staffs/edit.php on line 43
+[15-Jan-2017 15:54:28 UTC] PHP Notice:  Undefined property: stdClass::$class_id in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/staffs/edit.php on line 43
+[15-Jan-2017 15:54:28 UTC] PHP Notice:  Undefined property: stdClass::$class_id in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/staffs/edit.php on line 43
+[15-Jan-2017 15:54:28 UTC] PHP Notice:  Undefined property: stdClass::$school in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/staffs/edit.php on line 51
+[15-Jan-2017 15:54:28 UTC] PHP Notice:  Undefined property: stdClass::$achievement_id in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/staffs/edit.php on line 58
+[15-Jan-2017 15:54:28 UTC] PHP Notice:  Undefined property: stdClass::$achievement_id in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/staffs/edit.php on line 58
+[15-Jan-2017 15:54:28 UTC] PHP Notice:  Undefined property: stdClass::$achievement_id in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/staffs/edit.php on line 58
+[15-Jan-2017 15:54:28 UTC] PHP Notice:  Undefined property: stdClass::$achievement_id in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/staffs/edit.php on line 58
+[15-Jan-2017 15:54:28 UTC] PHP Notice:  Undefined property: stdClass::$achievement_id in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/staffs/edit.php on line 58
+[15-Jan-2017 15:54:28 UTC] PHP Notice:  Undefined property: stdClass::$achievement_id in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/staffs/edit.php on line 58
+[15-Jan-2017 15:54:28 UTC] PHP Notice:  Undefined property: stdClass::$achievement_id in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/staffs/edit.php on line 58
+[15-Jan-2017 15:54:28 UTC] PHP Notice:  Undefined property: stdClass::$achievement_id in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/staffs/edit.php on line 58
+[15-Jan-2017 15:54:28 UTC] PHP Notice:  Undefined property: stdClass::$name_father in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/staffs/edit.php on line 80
+[15-Jan-2017 15:54:28 UTC] PHP Notice:  Undefined property: stdClass::$name_mother in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/staffs/edit.php on line 85
+[15-Jan-2017 15:58:15 UTC] PHP Notice:  Undefined variable: user in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/staffs/edit.php on line 11
+[15-Jan-2017 15:58:15 UTC] PHP Notice:  Trying to get property of non-object in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/staffs/edit.php on line 11
+[15-Jan-2017 15:58:15 UTC] PHP Notice:  Undefined variable: user in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/staffs/edit.php on line 16
+[15-Jan-2017 15:58:15 UTC] PHP Notice:  Trying to get property of non-object in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/staffs/edit.php on line 16
+[15-Jan-2017 15:58:15 UTC] PHP Notice:  Undefined variable: user in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/staffs/edit.php on line 27
+[15-Jan-2017 15:58:15 UTC] PHP Notice:  Trying to get property of non-object in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/staffs/edit.php on line 27
+[15-Jan-2017 15:58:15 UTC] PHP Notice:  Undefined variable: user in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/staffs/edit.php on line 32
+[15-Jan-2017 15:58:15 UTC] PHP Notice:  Trying to get property of non-object in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/staffs/edit.php on line 32
+[15-Jan-2017 15:58:15 UTC] PHP Notice:  Undefined variable: user in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/staffs/edit.php on line 37
+[15-Jan-2017 15:58:15 UTC] PHP Notice:  Trying to get property of non-object in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/staffs/edit.php on line 37
+[15-Jan-2017 15:58:15 UTC] PHP Notice:  Undefined variable: user in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/staffs/edit.php on line 45
+[15-Jan-2017 15:58:15 UTC] PHP Notice:  Trying to get property of non-object in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/staffs/edit.php on line 45
+[15-Jan-2017 15:58:15 UTC] PHP Notice:  Undefined variable: user in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/staffs/edit.php on line 50
+[15-Jan-2017 15:58:15 UTC] PHP Notice:  Trying to get property of non-object in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/staffs/edit.php on line 50
+[15-Jan-2017 15:58:23 UTC] PHP Notice:  Undefined property: stdClass::$staffname in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/staffs/edit.php on line 45
+[15-Jan-2017 16:30:55 UTC] PHP Notice:  Undefined index: username in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/controller/staffs.php on line 43
+[15-Jan-2017 16:30:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/controller/staffs.php:43) in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/controller/staffs.php on line 46
+[16-Jan-2017 08:42:22 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'user_id' in 'field list' in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/model/Model_Login.php on line 22
+[16-Jan-2017 08:42:22 UTC] PHP Notice:  Trying to get property of non-object in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/model/Model_Login.php on line 31
+[16-Jan-2017 09:43:38 UTC] PHP Notice:  Trying to get property of non-object in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/model/Model_Login.php on line 31
+[16-Jan-2017 09:43:50 UTC] PHP Notice:  Trying to get property of non-object in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/model/Model_Login.php on line 31
+[16-Jan-2017 09:44:38 UTC] PHP Notice:  Trying to get property of non-object in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/model/Model_Login.php on line 31
+[17-Jan-2017 03:50:23 UTC] PHP Fatal error:  Call to undefined method Users::checkUser() in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/controller/users.php on line 29
+[19-Jan-2017 10:14:33 UTC] PHP Fatal error:  Call to undefined method Home::loadHomeworks() in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/core/controller.php on line 26
+[19-Jan-2017 10:14:48 UTC] PHP Fatal error:  Call to undefined method Home::loadHomeworks() in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/core/controller.php on line 26
+[21-Nov-2017 09:15:04 UTC] PHP Warning:  Missing argument 1 for Users::index(), called in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/core/application.php on line 52 and defined in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/controller/users.php on line 6
+[21-Nov-2017 09:15:04 UTC] PHP Notice:  Undefined variable: error in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/controller/users.php on line 17
+[21-Nov-2017 09:15:22 UTC] PHP Warning:  Missing argument 1 for Staffs::index(), called in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/core/application.php on line 52 and defined in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/controller/staffs.php on line 6
+[21-Nov-2017 09:15:22 UTC] PHP Notice:  Undefined variable: error in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/controller/staffs.php on line 15
+[08-Jan-2018 08:28:31 UTC] PHP Warning:  Missing argument 1 for Staffs::index(), called in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/core/application.php on line 52 and defined in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/controller/staffs.php on line 6
+[08-Jan-2018 08:28:31 UTC] PHP Notice:  Undefined variable: error in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/controller/staffs.php on line 15
+[09-Jan-2018 03:47:12 UTC] PHP Warning:  Missing argument 1 for Users::index(), called in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/core/application.php on line 52 and defined in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/controller/users.php on line 6
+[09-Jan-2018 03:47:12 UTC] PHP Notice:  Undefined variable: error in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/controller/users.php on line 17
+[09-Jan-2018 04:08:33 UTC] PHP Warning:  Missing argument 1 for Staffs::index(), called in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/core/application.php on line 52 and defined in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/controller/staffs.php on line 6
+[09-Jan-2018 04:08:33 UTC] PHP Notice:  Undefined index: staff_id in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/controller/staffs.php on line 13
+[09-Jan-2018 04:08:33 UTC] PHP Notice:  Undefined variable: error in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/controller/staffs.php on line 15
+[09-Jan-2018 04:08:33 UTC] PHP Notice:  Trying to get property of non-object in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/staffs/index.php on line 2
+[09-Jan-2018 04:08:33 UTC] PHP Notice:  Trying to get property of non-object in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/staffs/index.php on line 101
+[09-Jan-2018 04:08:33 UTC] PHP Notice:  Trying to get property of non-object in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/staffs/index.php on line 104
+[09-Jan-2018 04:08:33 UTC] PHP Notice:  Trying to get property of non-object in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/staffs/index.php on line 141
+[09-Jan-2018 04:08:33 UTC] PHP Notice:  Trying to get property of non-object in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/staffs/index.php on line 144
+[09-Jan-2018 04:08:33 UTC] PHP Notice:  Trying to get property of non-object in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/staffs/index.php on line 141
+[09-Jan-2018 04:08:33 UTC] PHP Notice:  Trying to get property of non-object in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/staffs/index.php on line 144
+[09-Jan-2018 04:08:33 UTC] PHP Notice:  Trying to get property of non-object in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/staffs/index.php on line 141
+[09-Jan-2018 04:08:33 UTC] PHP Notice:  Trying to get property of non-object in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/staffs/index.php on line 144
+[09-Jan-2018 04:08:33 UTC] PHP Notice:  Trying to get property of non-object in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/staffs/index.php on line 141
+[09-Jan-2018 04:08:33 UTC] PHP Notice:  Trying to get property of non-object in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/staffs/index.php on line 144
+[09-Jan-2018 04:08:33 UTC] PHP Notice:  Trying to get property of non-object in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/staffs/index.php on line 141
+[09-Jan-2018 04:08:33 UTC] PHP Notice:  Trying to get property of non-object in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/staffs/index.php on line 144
+[09-Jan-2018 04:08:33 UTC] PHP Notice:  Trying to get property of non-object in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/staffs/index.php on line 141
+[09-Jan-2018 04:08:33 UTC] PHP Notice:  Trying to get property of non-object in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/staffs/index.php on line 144
+[09-Jan-2018 04:08:33 UTC] PHP Notice:  Trying to get property of non-object in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/staffs/index.php on line 141
+[09-Jan-2018 04:08:33 UTC] PHP Notice:  Trying to get property of non-object in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/view/staffs/index.php on line 144
+[09-Jan-2018 04:08:59 UTC] PHP Warning:  Missing argument 1 for Staffs::index(), called in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/core/application.php on line 52 and defined in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/controller/staffs.php on line 6
+[09-Jan-2018 04:08:59 UTC] PHP Notice:  Undefined variable: error in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/controller/staffs.php on line 15
+[09-Jan-2018 04:16:12 UTC] PHP Warning:  Missing argument 1 for Staffs::index(), called in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/core/application.php on line 52 and defined in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/controller/staffs.php on line 6
+[09-Jan-2018 04:16:12 UTC] PHP Notice:  Undefined variable: error in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/controller/staffs.php on line 15
+[09-Jan-2018 04:48:32 UTC] PHP Warning:  Missing argument 1 for Users::index(), called in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/core/application.php on line 52 and defined in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/controller/users.php on line 6
+[09-Jan-2018 04:48:32 UTC] PHP Notice:  Undefined variable: error in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/controller/users.php on line 17
+[10-Jan-2018 08:49:13 UTC] PHP Warning:  Missing argument 1 for Users::index(), called in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/core/application.php on line 52 and defined in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/controller/users.php on line 6
+[10-Jan-2018 08:49:13 UTC] PHP Notice:  Undefined variable: error in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/controller/users.php on line 17
+[10-Jan-2018 08:53:34 UTC] PHP Warning:  Missing argument 1 for Staffs::index(), called in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/core/application.php on line 52 and defined in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/controller/staffs.php on line 6
+[10-Jan-2018 08:53:34 UTC] PHP Notice:  Undefined variable: error in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/controller/staffs.php on line 15
+[30-Jan-2018 09:39:56 UTC] PHP Warning:  Missing argument 1 for Users::index(), called in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/core/application.php on line 52 and defined in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/controller/users.php on line 6
+[30-Jan-2018 09:39:56 UTC] PHP Notice:  Undefined variable: error in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/controller/users.php on line 17
+[30-Jan-2018 09:40:01 UTC] PHP Warning:  Missing argument 1 for Staffs::index(), called in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/core/application.php on line 52 and defined in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/controller/staffs.php on line 6
+[30-Jan-2018 09:40:01 UTC] PHP Notice:  Undefined variable: error in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/controller/staffs.php on line 15
+[31-Jan-2018 02:28:55 UTC] PHP Warning:  Missing argument 1 for Users::index(), called in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/core/application.php on line 52 and defined in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/controller/users.php on line 6
+[31-Jan-2018 02:28:55 UTC] PHP Notice:  Undefined variable: error in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/controller/users.php on line 17
+[14-Mar-2018 03:12:36 UTC] PHP Warning:  Missing argument 1 for Users::index(), called in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/core/application.php on line 52 and defined in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/controller/users.php on line 6
+[14-Mar-2018 03:12:36 UTC] PHP Notice:  Undefined variable: error in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/controller/users.php on line 17
+[25-Sep-2019 08:45:51 UTC] PHP Warning:  Missing argument 1 for Users::index(), called in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/core/application.php on line 52 and defined in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/controller/users.php on line 6
+[25-Sep-2019 08:45:51 UTC] PHP Notice:  Undefined variable: error in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/controller/users.php on line 17
+[25-Sep-2019 08:45:57 UTC] PHP Warning:  Missing argument 1 for Users::index(), called in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/core/application.php on line 52 and defined in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/controller/users.php on line 6
+[25-Sep-2019 08:45:57 UTC] PHP Notice:  Undefined variable: error in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/controller/users.php on line 17
+[25-Sep-2019 08:46:01 UTC] PHP Warning:  Missing argument 1 for Users::index(), called in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/core/application.php on line 52 and defined in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/controller/users.php on line 6
+[25-Sep-2019 08:46:01 UTC] PHP Notice:  Undefined variable: error in /home/nakh2010/public_html/gwisbinhdinh.com/manager/application/controller/users.php on line 17
